@@ -1,0 +1,7 @@
+TileMap
+MeshInstance2D
+Camera2D
+AnimationPlayer
+Node
+CollisionShape2D
+CharacterBody2D

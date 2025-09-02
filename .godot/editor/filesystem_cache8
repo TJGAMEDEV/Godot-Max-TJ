@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1756755120
+::res://Assets/::1756755347
+icon.svg::CompressedTexture2D::2286323913577052016::1756694768::1756742437::1::::<><>::
+tile_sets.png::CompressedTexture2D::6728537396685327306::1756755347::1756755347::1::::<><>::
+::res://Scenes/::1756752351
+Attack.gd::GDScript::-1::1756748966::0::1::::<>State<>::
+Idle.gd::GDScript::-1::1756748966::0::1::::<>State<>::
+Player.gd::GDScript::-1::1756749239::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8130270105746052401::1756755364::0::1::::<><>::res://Scenes/State_machine.gd<>res://Scenes/Player.gd<>res://Scenes/Idle.gd<>res://Scenes/Run.gd<>res://Scenes/Attack.gd
+Run.gd::GDScript::-1::1756749174::0::1::::<>State<>::
+State_machine.gd::GDScript::-1::1756748966::0::1::::<>Node<>::
+test_scene.tscn::PackedScene::2995288990262317826::1756752351::0::1::::<><>::uid://dn3mmjcwon82p::::res://Scenes/player.tscn
+::res://Scripts/::1756754735
+README.md::TextFile::-1::1756695291::0::1::::<><>::
+State.gd::GDScript::-1::1756742823::0::1::::State<>Node<>::
